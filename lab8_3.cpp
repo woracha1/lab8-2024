@@ -7,7 +7,7 @@ int main(){
     int age ;
     int height ;
     int bounty ;
-    
+   
     cout << "Enter your age: " ;
     cin >> age ;
     
