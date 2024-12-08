@@ -43,7 +43,7 @@ int main(){
 		i++;
 	}
 	
-	//Print names scores and grades
+	//Print names scores and grades 
 	i = 0;
 	cout << "---------------------------------------------\n";
 	cout << setw(25) << "Name" << setw(8) << "Score" << setw(8) << "Grade" << "\n";
